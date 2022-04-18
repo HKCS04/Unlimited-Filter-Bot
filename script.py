@@ -1,6 +1,6 @@
 class Script(object):
 
-    START_MSG = "https://telegra.ph/file/ee7dc635ae564c8f72043.jpg"
+    START_MSG = "https://telegra.ph/file/ee7dc635ae564c8f72043.jpg
     "ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ് പക്ഷെ വെറുതെ സമയം കളയണ്ട എന്നെ Ma മൂവീസ് ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ"
 
 
